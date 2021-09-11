@@ -243,6 +243,10 @@ body {
   html {
     font-size: 50%;
   }
+  
+  .heading-primary{
+    font-size: 4.4rem;
+  }
 
   .carousel-btn {
     width: 10rem;
